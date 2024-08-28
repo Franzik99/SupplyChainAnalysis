@@ -11,3 +11,6 @@ This dataset contains 33 columns and 180,519 rows and has undergone a data wrang
 - Compare the performance of different shipping_mode options in terms of profit, delivery_status, and order_status. Recommend adjustments to shipping strategies to optimize costs and customer satisfaction.
 - Analyze the relationship between order_item_discount, sales_before_discount, and revenue. Determine whether higher discounts correlate with increased sales volume or revenue. Identify the optimal discount level that maximizes revenue without significantly eroding profit margins.
 
+## Tools
+- EXcel
+- Power BI
